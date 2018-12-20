@@ -33,6 +33,7 @@ p {
 	/*height: 75px;*/
 	position: absolute;
 	right: 20%;
+	text-align: right;
 }
 
 .sebelum_berikut {
@@ -42,15 +43,12 @@ p {
 
 #kiri {
 	float: left;
-	width: 75px;
+	width: 50px;
 	margin-right: 10px;
 }
 
 #kanan {
 	float: right;
-	width: 75px;
+	width: 50px;
 	margin-left: 10px;
-/*div {
-	width: 100%;
-	background-color: orange;
-}*/
+}
