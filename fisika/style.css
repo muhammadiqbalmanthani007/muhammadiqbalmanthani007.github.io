@@ -1,0 +1,19 @@
+
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	font-size: 16pt;
+	text-indent: 5%;
+}
+
+#code {
+	border: dashed grey;
+}

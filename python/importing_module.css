@@ -1,0 +1,56 @@
+
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#judul {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	font-size: 16pt;
+	/*text-indent: 5%;*/
+}
+
+.code {
+	position: relative;
+	right: 250px;
+}
+
+#sebelum {
+	/*border: dashed 1px orange;*/
+	/*background-color: lightgreen;*/
+	width: 200px;
+	/*height: 75px;*/
+}
+
+#berikut {
+	/*border: dashed 1px orange;*/
+	/*background-color: lightgreen;*/
+	width: 200px;
+	/*height: 75px;*/
+	position: absolute;
+	right: 20%;
+}
+
+.sebelum_berikut {
+	display: inline-block;
+}
+
+
+#kiri {
+	float: left;
+	width: 75px;
+	margin-right: 10px;
+}
+
+#kanan {
+	float: right;
+	width: 75px;
+	margin-left: 10px;
+/*div {
+	width: 100%;
+	background-color: orange;
+}*/

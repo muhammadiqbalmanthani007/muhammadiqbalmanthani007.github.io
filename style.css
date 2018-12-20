@@ -1,0 +1,27 @@
+header {
+	border: dashed 2px green;
+	margin-bottom: 10px;
+}
+
+main {
+	border: dashed 2px red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+footer {
+	border: dashed 2px blue;
+	margin-top: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: cyan;
+}
+
+.hmf {
+
+}
